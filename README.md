@@ -57,5 +57,4 @@ soroban contract invoke --id <CONTRACT_ID> \
   get_votes --candidate A
 ```
 
-### Screenshot
-![Preview](SimpleVotingDApp Screenshot.jpeg)
+![Preview](Screenshot.jpeg)
