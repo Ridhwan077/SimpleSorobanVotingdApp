@@ -9,7 +9,6 @@ A simple, transparent, and secure decentralized voting application built on the 
 
 ## Project Structure
 - `src/lib.rs`: The main smart contract logic.
-- `src/test.rs`: Unit tests to validate logic without requiring network deployment.
 - `Cargo.toml`: Dependency configuration and WebAssembly (WASM) optimization settings.
 
 ## How to Use via Soroban IDE (Playground)
