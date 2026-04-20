@@ -58,4 +58,4 @@ soroban contract invoke --id <CONTRACT_ID> \
 ```
 
 ### Screenshot
-![Testnet](SimpleVotingDApp Screenshot.jpeg)
+![Preview](SimpleVotingDApp Screenshot.jpeg)
