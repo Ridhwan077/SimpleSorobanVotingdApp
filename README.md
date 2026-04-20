@@ -55,5 +55,5 @@ soroban contract invoke --id <CONTRACT_ID> \
   --network testnet -- \
   get_votes --candidate A
 ```
-
+### Screenshot
 ![Preview](Screenshot.jpeg)
